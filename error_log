@@ -1,0 +1,18 @@
+[23-Mar-2018 01:35:36 UTC] PHP Notice:  Undefined variable: app in /home/sistema2847/public_html/api.sistema.com.gt/bootstrap/app.php on line 21
+[23-Mar-2018 01:35:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function register() on null in /home/sistema2847/public_html/api.sistema.com.gt/bootstrap/app.php:21
+Stack trace:
+#0 /home/sistema2847/public_html/api.sistema.com.gt/artisan(18): require()
+#1 {main}
+  thrown in /home/sistema2847/public_html/api.sistema.com.gt/bootstrap/app.php on line 21
+[23-Mar-2018 01:35:39 UTC] PHP Notice:  Undefined variable: app in /home/sistema2847/public_html/api.sistema.com.gt/bootstrap/app.php on line 21
+[23-Mar-2018 01:35:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function register() on null in /home/sistema2847/public_html/api.sistema.com.gt/bootstrap/app.php:21
+Stack trace:
+#0 /home/sistema2847/public_html/api.sistema.com.gt/artisan(18): require()
+#1 {main}
+  thrown in /home/sistema2847/public_html/api.sistema.com.gt/bootstrap/app.php on line 21
+[23-Mar-2018 01:36:32 UTC] PHP Notice:  Undefined variable: app in /home/sistema2847/public_html/api.sistema.com.gt/bootstrap/app.php on line 21
+[23-Mar-2018 01:36:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function register() on null in /home/sistema2847/public_html/api.sistema.com.gt/bootstrap/app.php:21
+Stack trace:
+#0 /home/sistema2847/public_html/api.sistema.com.gt/artisan(18): require()
+#1 {main}
+  thrown in /home/sistema2847/public_html/api.sistema.com.gt/bootstrap/app.php on line 21
