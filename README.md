@@ -1,1 +1,4 @@
-# crud lumen peticiones http POST, GET, DELETE, PATCH
+# Lumen CRUD 
+
+peticiones HTTP POST,GET,DELETE,PATCH
+
